@@ -2,9 +2,6 @@
 
 <h3 align="center">Iphone 15 Website</h3>
 
-<div align="center">
-  Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@ftechofficial/videos" target="_blank"><b>F.Tech Official</b></a> YouTube. Join the F.Tech family!
-</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -13,9 +10,8 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
-8. 👤 [About Me](#about-me)
+6. 🚀 [More](#more)
+7. 👤 [About Me](#about-me)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -78,10 +74,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
-
-<details>
-<summary><code>tailwind.config.js</code></summary>
 
 
 ## <a name="about-me">👤 About Me</a>
